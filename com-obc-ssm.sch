@@ -57,8 +57,8 @@ F0 "com" 60
 F1 "com-ssm.sch" 60
 $EndSheet
 $Sheet
-S 6350 2450 1900 1150
-U 5A07580F
+S 6050 3000 1950 650 
+U 5A076FE1
 F0 "obc" 60
 F1 "obc-ssm.sch" 60
 $EndSheet
