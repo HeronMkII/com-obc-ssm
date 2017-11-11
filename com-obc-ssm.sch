@@ -31,11 +31,16 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:cdh_lib
+LIBS:general_ssm
+LIBS:lithium-1
+LIBS:SN65HVD233D
+LIBS:com-obc-ssm-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date ""
 Rev ""

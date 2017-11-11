@@ -1,4 +1,4 @@
-update=2017-11-11 2:40:40 PM
+update=2017-11-11 3:25:15 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,5 +61,7 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-[general]
-version=1
+LibName33=library/cdh_lib
+LibName34=library/general_ssm
+LibName35=library/lithium-1
+LibName36=library/SN65HVD233D

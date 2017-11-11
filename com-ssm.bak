@@ -448,21 +448,4 @@ Connection ~ 4150 4250
 Wire Wire Line
 	3850 3950 4550 3950
 Connection ~ 4150 3950
-Text Notes 5950 3450 0    60   ~ 0
-add programming port
-$Comp
-L SW_Push_Dual SW?
-U 1 1 5A077CDE
-P 7900 6050
-F 0 "SW?" H 7950 6150 50  0000 L CNN
-F 1 "SW_Push_Dual" H 7900 5780 50  0000 C CNN
-F 2 "" H 7900 6250 50  0001 C CNN
-F 3 "" H 7900 6250 50  0001 C CNN
-	1    7900 6050
-	1    0    0    -1  
-$EndComp
-Text Notes 6000 3900 0    60   ~ 0
-add power bit
-Text Notes 7650 5700 0    60   ~ 0
-finish this
 $EndSCHEMATC
