@@ -45,16 +45,4 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Sheet
-S 2050 2500 1700 1100
-U 5A075805
-F0 "com" 60
-F1 "com-ssm.sch" 60
-$EndSheet
-$Sheet
-S 6350 2450 1900 1150
-U 5A07580F
-F0 "obc" 60
-F1 "obc-ssm.sch" 60
-$EndSheet
 $EndSCHEMATC
