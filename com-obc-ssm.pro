@@ -1,4 +1,4 @@
-update=2017-11-11 3:25:15 PM
+update=2017-11-18 3:45:25 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,3 +65,4 @@ LibName33=library/cdh_lib
 LibName34=library/general_ssm
 LibName35=library/lithium-1
 LibName36=library/SN65HVD233D
+LibName37=library/agnd

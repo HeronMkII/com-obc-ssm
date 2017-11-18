@@ -3,8 +3,8 @@ EESchema-LIBRARY Version 2.3
 #
 # Lithium-1
 #
-DEF Lithium-1 IC 0 40 Y Y 1 F N
-F0 "IC" 450 550 60 H V C CNN
+DEF Lithium-1 L 0 40 Y Y 1 F N
+F0 "L" 450 550 60 H V C CNN
 F1 "Lithium-1" -100 550 60 H V C CNN
 F2 "" -100 -50 60 H I C CNN
 F3 "" -100 -50 60 H I C CNN
